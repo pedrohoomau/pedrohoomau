@@ -20,3 +20,9 @@ Site pessoal e portfólio profissional desenvolvido com HTML, CSS e JavaScript p
 <img height = "130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoomau&show_icons=true&theme=bear&count_private=true"/>
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedrohoomau&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrohoomau/pedrohoomau/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrohoomau/pedrohoomau/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pedrohoomau/pedrohoomau/output/snake.svg">
+</picture>
